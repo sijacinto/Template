@@ -106,7 +106,7 @@ Requisitos funcionais
 - Experiência do usuário ao oferecer algo mais (UX)
 
   
-# Requisitos não funcionais
+## Requisitos não funcionais
 
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
