@@ -16,7 +16,7 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Burndown](#Burndown)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Autores](#autores)
-* [Teste](#Requisitos não funcionais)
+* [Teste](#Requisitos-não-funcionais)
 
 # Projeto (API) 
 Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
@@ -107,6 +107,7 @@ Requisitos funcionais
 
   
 # Requisitos não funcionais
+
 - Usar tecnologias especifícas/apoio/tecnológicas
 - Metodologias ágil
 - Power BI / Jira / Canvas
